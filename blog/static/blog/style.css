@@ -1,0 +1,12 @@
+body {
+    background-color: #f0f2f5;  
+}
+
+/* body {
+    background-color: #f0f2f5;
+    background-image: url('/static/blog/edited.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+} */
